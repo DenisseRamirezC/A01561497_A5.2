@@ -1,0 +1,6 @@
+FOLDER      TOTAL COST
+TC1            2481.86
+TC2          166568
+TC3          165235
+
+Execution Time: 0.01518702507019043 seconds
